@@ -48,5 +48,5 @@ basic.forever(function () {
     scrivi_su_oled("Vado Avanti")
     muovi_avanti(velocita, 3000)
     scrivi_su_oled("Giro a Destra")
-    gira_a_destra(velocita, 1500)
+    gira_a_destra(velocita, 1200)
 })
